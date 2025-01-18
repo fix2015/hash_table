@@ -116,7 +116,7 @@ console.log(hashTable.size()); // Output: 2
 
 ## TikTok Tutorial 🎥  
 Want to see a quick tutorial on how to build this? Check out this TikTok video:  
-[https://www.tiktok.com/@jsmentoring/video/7461022091421273376](https://www.tiktok.com/@jsmentoring/video/7461022091421273376)  
+[]()  
 
 ---
 
